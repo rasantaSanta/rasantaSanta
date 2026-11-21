@@ -1,5 +1,5 @@
 <!-- Profil-README: erscheint oben auf github.com/rasantaSanta, sobald dieses Repo als "rasantaSanta/rasantaSanta" öffentlich ist. -->
-<!-- TODO vor Veröffentlichung: Name/Kontakt ergänzen (oder bewusst weglassen) und nur die Projekte stehen lassen, die öffentlich sind. -->
+<!-- Projekte mit „noch privat“ haben (noch) kein öffentliches Repo; Link ergänzen, sobald veröffentlicht. -->
 
 # Hi, ich bin rasantaSanta 👋
 
@@ -19,16 +19,16 @@ und die Abnahme liegen bei mir. Jedes README sagt offen, was getestet ist und wa
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/rasantaSanta/gehwegscan"><img src="assets/gehwegscan.jpg" alt="Freie Bahn"></a>
-<h3>Freie Bahn / GehwegScan</h3>
+<img src="assets/gehwegscan.jpg" alt="Freie Bahn">
+<h3>Freie Bahn / GehwegScan <sub>· noch privat</sub></h3>
 Handyspiel, das nebenbei die Gehwege einer Stadt kartiert. Jeder gefangene „Blocker“ wird zur Meldung an die
 Gemeinde. KI im Handy anonymisiert die Fotos, die Prüfung läuft über eine Ampel aus Crowd-Labor und Server-KI, dazu
 eine Lernschleife.<br>
 <sub>Expo / React Native · React · Supabase + PostGIS · TF.js · OWLv2 · ~430 automatisierte Checks</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/rasantaSanta/litpipe"><img src="assets/litpipe.jpg" alt="litpipe"></a>
-<h3>litpipe</h3>
+<img src="assets/litpipe.jpg" alt="litpipe">
+<h3>litpipe <sub>· noch privat</sub></h3>
 KI-gestützte Literaturrecherche für systematische Reviews. Quellen nur aus echten Datenbanken, Zitate wörtlich
 geprüft, Reliabilität per Cohens Kappa, Recall gegen veröffentlichte Reviews gemessen. Ausgabe als PRISMA,
 Konzeptmatrix, Obsidian und Citavi.<br>
@@ -37,16 +37,16 @@ Konzeptmatrix, Obsidian und Citavi.<br>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/rasantaSanta/ai-city"><img src="assets/ai-city.jpg" alt="AI City"></a>
-<h3>AI City</h3>
+<img src="assets/ai-city.jpg" alt="AI City">
+<h3>AI City <sub>· noch privat</sub></h3>
 Die Stadt Steyr als 3D-Cartoon-Welt aus freien Geodaten, bewohnt von einer simulierten Gesellschaft und
 KI-Hauptfiguren. Alles Geschehen landet in einem Journal mit Hash-Kette, eine Redaktion macht daraus News und eine
 Serie.<br>
 <sub>three.js · Node · OpenStreetMap · LLM-Broker · Server-Sent Events</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/rasantaSanta/riverzzz"><img src="assets/riverzzz.jpg" alt="Flow Europe"></a>
-<h3>Flow Europe</h3>
+<img src="assets/riverzzz.jpg" alt="Flow Europe">
+<h3>Flow Europe <sub>· noch privat</sub></h3>
 Flüsse in Abschnitten mit Live-Pegeln aus drei Behördenquellen und Befahrbarkeits-Ampel, dazu eine 3D-Fahrt auf dem
 Fluss über Gelände aus Laserscan-Daten.<br>
 <sub>TypeScript · MapLibre GL · Vite · GeoTIFF · PegelOnline / ehyd / HYDAVIS</sub>
@@ -54,8 +54,8 @@ Fluss über Gelände aus Laserscan-Daten.<br>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/rasantaSanta/riddle-games"><img src="assets/riddle-games.jpg" alt="Riddle Games"></a>
-<h3>Riddle Games</h3>
+<img src="assets/riddle-games.jpg" alt="Riddle Games">
+<h3>Riddle Games <sub>· noch privat</sub></h3>
 Krimi- und Rätselspiele im Browser, ohne Framework und offline spielbar. Dazu eine eigene QA-Werkzeugkette, die
 Rätsel auf Antwort-Lecks, Raten-Anfälligkeit und Eindeutigkeit prüft.<br>
 <sub>HTML / CSS / JS · Node-QA · Headless Chrome · TTS-Pipeline</sub>
